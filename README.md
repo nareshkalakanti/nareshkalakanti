@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naresh Kalakanti</h1>
 <h3 align="center">I am a CS engineer passionate about building systems that scale and currently working with Fidelity Investments as a Principle Engineer AI/MLOps building large-scale distributed systems, cloud computing, AIOps, MLOps for various AI applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshkalakanti&label=Profile%20views&color=0e75b6&style=flat" alt="nareshkalakanti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nareshkalakanti" alt="nareshkalakanti" /></a> </p>
-
 - 📫 How to reach me **naresh.kalakanti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
